@@ -1,6 +1,2 @@
-```
-npm install
-npm start
-```
-
-## Не забудь звезду!
+[
+chess-react](https://gumirus.github.io/chess-react)
